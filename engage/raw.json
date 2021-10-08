@@ -1,0 +1,6848 @@
+[
+  {
+    "userid": "187837",
+    "userstatus": "true",
+    "maxScore": "1300",
+    "score": "1300.00",
+    "image": "187837_thumb.png",
+    "position": "1",
+    "myRanking": "false",
+    "round": null,
+    "rounds": [
+      {
+        "roundId": "52472",
+        "name": "O que é cultura e engajamento de equipe?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "15/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 187837,
+            "ID_ATIVIDADE": 60961,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 187837,
+                "ID_ATIVIDADE": 60961,
+                "DT_RESPOSTA": "2020-04-15T14:27:04.84",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 187837,
+            "ID_ATIVIDADE": 60962,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 187837,
+                "ID_ATIVIDADE": 60962,
+                "DT_RESPOSTA": "2020-04-15T14:27:06.157",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 187837,
+            "ID_ATIVIDADE": 60963,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 187837,
+                "ID_ATIVIDADE": 60963,
+                "DT_RESPOSTA": "2020-04-15T14:28:03.36",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 187837,
+            "ID_ATIVIDADE": 60964,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 187837,
+                "ID_ATIVIDADE": 60964,
+                "DT_RESPOSTA": "2020-04-15T14:28:04.767",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 187837,
+            "ID_ATIVIDADE": 60965,
+            "NU_PESO": 6,
+            "answers": [
+              {
+                "ID_USUARIO": 187837,
+                "ID_ATIVIDADE": 60965,
+                "DT_RESPOSTA": "2020-04-15T20:23:07.733",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52473",
+        "name": "O que você mais gosta no seu trabalho?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "16/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 187837,
+            "ID_ATIVIDADE": 60967,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 187837,
+                "ID_ATIVIDADE": 60967,
+                "DT_RESPOSTA": "2020-04-16T21:49:05.29",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 187837,
+            "ID_ATIVIDADE": 60968,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 187837,
+                "ID_ATIVIDADE": 60968,
+                "DT_RESPOSTA": "2020-04-16T21:51:33.617",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52474",
+        "name": "O que vocês acham da Visão e Missão da Empresa?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "22/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 187837,
+            "ID_ATIVIDADE": 60969,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 187837,
+                "ID_ATIVIDADE": 60969,
+                "DT_RESPOSTA": "2020-04-22T12:01:12.453",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52475",
+        "name": "Redes Sociais",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "23/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 187837,
+            "ID_ATIVIDADE": 60971,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 187837,
+                "ID_ATIVIDADE": 60971,
+                "DT_RESPOSTA": "2020-04-23T11:10:06.723",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52476",
+        "name": "Vídeo Conferência",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "28/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 187837,
+            "ID_ATIVIDADE": 60972,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 187837,
+                "ID_ATIVIDADE": 60972,
+                "DT_RESPOSTA": "2020-04-28T10:27:21.133",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52477",
+        "name": "Líder Inspirador",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "30/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 187837,
+            "ID_ATIVIDADE": 60974,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 187837,
+                "ID_ATIVIDADE": 60974,
+                "DT_RESPOSTA": "2020-04-30T12:43:33.67",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52478",
+        "name": "Dia da camiseta de futebol",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "05/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 187837,
+            "ID_ATIVIDADE": 60975,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 187837,
+                "ID_ATIVIDADE": 60975,
+                "DT_RESPOSTA": "2020-05-05T12:10:42.31",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52479",
+        "name": "Feedback",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "07/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 187837,
+            "ID_ATIVIDADE": 60976,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 187837,
+                "ID_ATIVIDADE": 60976,
+                "DT_RESPOSTA": "2020-05-07T14:58:37.067",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52480",
+        "name": "Aplicação de um jogo",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "12/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 187837,
+            "ID_ATIVIDADE": 60978,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 187837,
+                "ID_ATIVIDADE": 60978,
+                "DT_RESPOSTA": "2020-05-12T12:17:00.38",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52481",
+        "name": "Dia da Fantasia",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "14/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 187837,
+            "ID_ATIVIDADE": 60980,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 187837,
+                "ID_ATIVIDADE": 60980,
+                "DT_RESPOSTA": "2020-05-14T10:02:50.08",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52482",
+        "name": "Vamos tomar um café?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "19/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 187837,
+            "ID_ATIVIDADE": 60981,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 187837,
+                "ID_ATIVIDADE": 60981,
+                "DT_RESPOSTA": "2020-05-19T10:20:08.017",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52483",
+        "name": "Laboral",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "21/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 187837,
+            "ID_ATIVIDADE": 60982,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 187837,
+                "ID_ATIVIDADE": 60982,
+                "DT_RESPOSTA": "2020-05-21T18:26:07.997",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 187837,
+            "ID_ATIVIDADE": 60984,
+            "NU_PESO": 4,
+            "answers": [
+              {
+                "ID_USUARIO": 187837,
+                "ID_ATIVIDADE": 60984,
+                "DT_RESPOSTA": "2020-05-21T18:26:23.827",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52484",
+        "name": "Dia do Super-Herói",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "28/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 187837,
+            "ID_ATIVIDADE": 60986,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 187837,
+                "ID_ATIVIDADE": 60986,
+                "DT_RESPOSTA": "2020-05-28T19:53:38.967",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userid": "82425",
+    "userstatus": "true",
+    "maxScore": "1300",
+    "score": "1300.00",
+    "image": "82425_thumb.png",
+    "position": "2",
+    "myRanking": "false",
+    "round": null,
+    "rounds": [
+      {
+        "roundId": "52472",
+        "name": "O que é cultura e engajamento de equipe?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "15/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82425,
+            "ID_ATIVIDADE": 60961,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82425,
+                "ID_ATIVIDADE": 60961,
+                "DT_RESPOSTA": "2020-04-15T14:23:39.193",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82425,
+            "ID_ATIVIDADE": 60962,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82425,
+                "ID_ATIVIDADE": 60962,
+                "DT_RESPOSTA": "2020-04-15T14:23:45.757",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82425,
+            "ID_ATIVIDADE": 60963,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82425,
+                "ID_ATIVIDADE": 60963,
+                "DT_RESPOSTA": "2020-04-15T14:23:53.53",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82425,
+            "ID_ATIVIDADE": 60964,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82425,
+                "ID_ATIVIDADE": 60964,
+                "DT_RESPOSTA": "2020-04-15T14:24:08.037",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82425,
+            "ID_ATIVIDADE": 60965,
+            "NU_PESO": 6,
+            "answers": [
+              {
+                "ID_USUARIO": 82425,
+                "ID_ATIVIDADE": 60965,
+                "DT_RESPOSTA": "2020-04-15T14:25:24.877",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52473",
+        "name": "O que você mais gosta no seu trabalho?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "16/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82425,
+            "ID_ATIVIDADE": 60967,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82425,
+                "ID_ATIVIDADE": 60967,
+                "DT_RESPOSTA": "2020-04-16T16:37:30.16",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82425,
+            "ID_ATIVIDADE": 60968,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82425,
+                "ID_ATIVIDADE": 60968,
+                "DT_RESPOSTA": "2020-04-16T19:31:03.973",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52474",
+        "name": "O que vocês acham da Visão e Missão da Empresa?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "22/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82425,
+            "ID_ATIVIDADE": 60969,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82425,
+                "ID_ATIVIDADE": 60969,
+                "DT_RESPOSTA": "2020-04-22T15:06:15.57",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52475",
+        "name": "Redes Sociais",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "23/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82425,
+            "ID_ATIVIDADE": 60971,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82425,
+                "ID_ATIVIDADE": 60971,
+                "DT_RESPOSTA": "2020-04-23T11:28:20.653",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52476",
+        "name": "Vídeo Conferência",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "28/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82425,
+            "ID_ATIVIDADE": 60972,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82425,
+                "ID_ATIVIDADE": 60972,
+                "DT_RESPOSTA": "2020-04-28T11:11:13.563",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52477",
+        "name": "Líder Inspirador",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "30/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82425,
+            "ID_ATIVIDADE": 60974,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82425,
+                "ID_ATIVIDADE": 60974,
+                "DT_RESPOSTA": "2020-04-30T11:41:20.44",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52478",
+        "name": "Dia da camiseta de futebol",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "05/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82425,
+            "ID_ATIVIDADE": 60975,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82425,
+                "ID_ATIVIDADE": 60975,
+                "DT_RESPOSTA": "2020-05-05T13:13:16.243",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52479",
+        "name": "Feedback",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "07/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82425,
+            "ID_ATIVIDADE": 60976,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82425,
+                "ID_ATIVIDADE": 60976,
+                "DT_RESPOSTA": "2020-05-07T12:29:24.52",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52480",
+        "name": "Aplicação de um jogo",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "12/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82425,
+            "ID_ATIVIDADE": 60978,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82425,
+                "ID_ATIVIDADE": 60978,
+                "DT_RESPOSTA": "2020-05-12T13:08:19.843",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52481",
+        "name": "Dia da Fantasia",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "14/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82425,
+            "ID_ATIVIDADE": 60980,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82425,
+                "ID_ATIVIDADE": 60980,
+                "DT_RESPOSTA": "2020-05-14T10:53:46.65",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52482",
+        "name": "Vamos tomar um café?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "20/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82425,
+            "ID_ATIVIDADE": 60981,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82425,
+                "ID_ATIVIDADE": 60981,
+                "DT_RESPOSTA": "2020-05-20T12:08:10.203",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52483",
+        "name": "Laboral",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "21/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82425,
+            "ID_ATIVIDADE": 60982,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82425,
+                "ID_ATIVIDADE": 60982,
+                "DT_RESPOSTA": "2020-05-21T10:16:30.803",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82425,
+            "ID_ATIVIDADE": 60984,
+            "NU_PESO": 4,
+            "answers": [
+              {
+                "ID_USUARIO": 82425,
+                "ID_ATIVIDADE": 60984,
+                "DT_RESPOSTA": "2020-05-21T10:20:50.637",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52484",
+        "name": "Dia do Super-Herói",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "29/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82425,
+            "ID_ATIVIDADE": 60986,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82425,
+                "ID_ATIVIDADE": 60986,
+                "DT_RESPOSTA": "2020-05-29T20:01:13.67",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userid": "185551",
+    "userstatus": "true",
+    "maxScore": "1300",
+    "score": "1000.00",
+    "image": "185551_thumb.png",
+    "position": "3",
+    "myRanking": "false",
+    "round": null,
+    "rounds": [
+      {
+        "roundId": "52472",
+        "name": "O que é cultura e engajamento de equipe?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "15/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 185551,
+            "ID_ATIVIDADE": 60961,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 185551,
+                "ID_ATIVIDADE": 60961,
+                "DT_RESPOSTA": "2020-04-15T14:33:07.927",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 185551,
+            "ID_ATIVIDADE": 60962,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 185551,
+                "ID_ATIVIDADE": 60962,
+                "DT_RESPOSTA": "2020-04-15T14:33:25.463",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 185551,
+            "ID_ATIVIDADE": 60963,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 185551,
+                "ID_ATIVIDADE": 60963,
+                "DT_RESPOSTA": "2020-04-15T14:34:56.853",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 185551,
+            "ID_ATIVIDADE": 60964,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 185551,
+                "ID_ATIVIDADE": 60964,
+                "DT_RESPOSTA": "2020-04-15T14:35:33.64",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 185551,
+            "ID_ATIVIDADE": 60965,
+            "NU_PESO": 6,
+            "answers": [
+              {
+                "ID_USUARIO": 185551,
+                "ID_ATIVIDADE": 60965,
+                "DT_RESPOSTA": "2020-04-15T14:36:38.423",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52473",
+        "name": "O que você mais gosta no seu trabalho?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "17/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 185551,
+            "ID_ATIVIDADE": 60967,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 185551,
+                "ID_ATIVIDADE": 60967,
+                "DT_RESPOSTA": "2020-04-17T18:38:16.93",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 185551,
+            "ID_ATIVIDADE": 60968,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 185551,
+                "ID_ATIVIDADE": 60968,
+                "DT_RESPOSTA": "2020-04-17T18:41:49.187",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52474",
+        "name": "O que vocês acham da Visão e Missão da Empresa?",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52475",
+        "name": "Redes Sociais",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "23/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 185551,
+            "ID_ATIVIDADE": 60971,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 185551,
+                "ID_ATIVIDADE": 60971,
+                "DT_RESPOSTA": "2020-04-23T13:47:54.95",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52476",
+        "name": "Vídeo Conferência",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "28/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 185551,
+            "ID_ATIVIDADE": 60972,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 185551,
+                "ID_ATIVIDADE": 60972,
+                "DT_RESPOSTA": "2020-04-28T10:26:01.803",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52477",
+        "name": "Líder Inspirador",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "30/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 185551,
+            "ID_ATIVIDADE": 60974,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 185551,
+                "ID_ATIVIDADE": 60974,
+                "DT_RESPOSTA": "2020-04-30T12:03:11.233",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52478",
+        "name": "Dia da camiseta de futebol",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "05/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 185551,
+            "ID_ATIVIDADE": 60975,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 185551,
+                "ID_ATIVIDADE": 60975,
+                "DT_RESPOSTA": "2020-05-05T17:29:43.22",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52479",
+        "name": "Feedback",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "07/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 185551,
+            "ID_ATIVIDADE": 60976,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 185551,
+                "ID_ATIVIDADE": 60976,
+                "DT_RESPOSTA": "2020-05-07T14:30:01.863",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52480",
+        "name": "Aplicação de um jogo",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "12/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 185551,
+            "ID_ATIVIDADE": 60978,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 185551,
+                "ID_ATIVIDADE": 60978,
+                "DT_RESPOSTA": "2020-05-12T10:16:56.153",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52481",
+        "name": "Dia da Fantasia",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "14/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 185551,
+            "ID_ATIVIDADE": 60980,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 185551,
+                "ID_ATIVIDADE": 60980,
+                "DT_RESPOSTA": "2020-05-14T14:33:50.88",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52482",
+        "name": "Vamos tomar um café?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "19/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 185551,
+            "ID_ATIVIDADE": 60981,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 185551,
+                "ID_ATIVIDADE": 60981,
+                "DT_RESPOSTA": "2020-05-19T10:37:57.483",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52483",
+        "name": "Laboral",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "em_andamento",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 185551,
+            "ID_ATIVIDADE": 60982,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 185551,
+                "ID_ATIVIDADE": 60982,
+                "DT_RESPOSTA": "2020-05-26T12:13:32.8",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 185551,
+            "ID_ATIVIDADE": 60984,
+            "NU_PESO": 4,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52484",
+        "name": "Dia do Super-Herói",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 185551,
+            "ID_ATIVIDADE": 60986,
+            "NU_PESO": 1,
+            "answers": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userid": "160278",
+    "userstatus": "true",
+    "maxScore": "1300",
+    "score": "1000.00",
+    "image": "160278_thumb.png",
+    "position": "4",
+    "myRanking": "false",
+    "round": null,
+    "rounds": [
+      {
+        "roundId": "52472",
+        "name": "O que é cultura e engajamento de equipe?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "15/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 160278,
+            "ID_ATIVIDADE": 60961,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 160278,
+                "ID_ATIVIDADE": 60961,
+                "DT_RESPOSTA": "2020-04-15T14:30:15.253",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 160278,
+            "ID_ATIVIDADE": 60962,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 160278,
+                "ID_ATIVIDADE": 60962,
+                "DT_RESPOSTA": "2020-04-15T14:30:32.163",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 160278,
+            "ID_ATIVIDADE": 60963,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 160278,
+                "ID_ATIVIDADE": 60963,
+                "DT_RESPOSTA": "2020-04-15T14:30:46.45",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 160278,
+            "ID_ATIVIDADE": 60964,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 160278,
+                "ID_ATIVIDADE": 60964,
+                "DT_RESPOSTA": "2020-04-15T14:31:07.853",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 160278,
+            "ID_ATIVIDADE": 60965,
+            "NU_PESO": 6,
+            "answers": [
+              {
+                "ID_USUARIO": 160278,
+                "ID_ATIVIDADE": 60965,
+                "DT_RESPOSTA": "2020-04-15T14:31:56.583",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52473",
+        "name": "O que você mais gosta no seu trabalho?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "17/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 160278,
+            "ID_ATIVIDADE": 60967,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 160278,
+                "ID_ATIVIDADE": 60967,
+                "DT_RESPOSTA": "2020-04-17T10:58:16.487",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 160278,
+            "ID_ATIVIDADE": 60968,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 160278,
+                "ID_ATIVIDADE": 60968,
+                "DT_RESPOSTA": "2020-04-17T11:00:02.517",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52474",
+        "name": "O que vocês acham da Visão e Missão da Empresa?",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 160278,
+            "ID_ATIVIDADE": 60969,
+            "NU_PESO": 1,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52475",
+        "name": "Redes Sociais",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "23/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 160278,
+            "ID_ATIVIDADE": 60971,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 160278,
+                "ID_ATIVIDADE": 60971,
+                "DT_RESPOSTA": "2020-04-23T11:46:02.27",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52476",
+        "name": "Vídeo Conferência",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "28/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 160278,
+            "ID_ATIVIDADE": 60972,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 160278,
+                "ID_ATIVIDADE": 60972,
+                "DT_RESPOSTA": "2020-04-28T10:26:54.163",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52477",
+        "name": "Líder Inspirador",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "30/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 160278,
+            "ID_ATIVIDADE": 60974,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 160278,
+                "ID_ATIVIDADE": 60974,
+                "DT_RESPOSTA": "2020-04-30T11:55:27.293",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52478",
+        "name": "Dia da camiseta de futebol",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "05/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 160278,
+            "ID_ATIVIDADE": 60975,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 160278,
+                "ID_ATIVIDADE": 60975,
+                "DT_RESPOSTA": "2020-05-05T14:42:16.637",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52479",
+        "name": "Feedback",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "07/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 160278,
+            "ID_ATIVIDADE": 60976,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 160278,
+                "ID_ATIVIDADE": 60976,
+                "DT_RESPOSTA": "2020-05-07T14:19:13.42",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52480",
+        "name": "Aplicação de um jogo",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "14/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 160278,
+            "ID_ATIVIDADE": 60978,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 160278,
+                "ID_ATIVIDADE": 60978,
+                "DT_RESPOSTA": "2020-05-14T12:07:42.57",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52481",
+        "name": "Dia da Fantasia",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "14/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 160278,
+            "ID_ATIVIDADE": 60980,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 160278,
+                "ID_ATIVIDADE": 60980,
+                "DT_RESPOSTA": "2020-05-14T12:12:36.77",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52482",
+        "name": "Vamos tomar um café?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "20/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 160278,
+            "ID_ATIVIDADE": 60981,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 160278,
+                "ID_ATIVIDADE": 60981,
+                "DT_RESPOSTA": "2020-05-20T11:14:40.337",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52483",
+        "name": "Laboral",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "em_andamento",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 160278,
+            "ID_ATIVIDADE": 60982,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 160278,
+                "ID_ATIVIDADE": 60982,
+                "DT_RESPOSTA": "2020-05-21T11:40:36.44",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 160278,
+            "ID_ATIVIDADE": 60984,
+            "NU_PESO": 4,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52484",
+        "name": "Dia do Super-Herói",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      }
+    ]
+  },
+  {
+    "userid": "82424",
+    "userstatus": "true",
+    "maxScore": "1300",
+    "score": "1000.00",
+    "image": "82424_thumb.png",
+    "position": "1",
+    "myRanking": "false",
+    "round": null,
+    "rounds": [
+      {
+        "roundId": "52472",
+        "name": "O que é cultura e engajamento de equipe?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "16/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82424,
+            "ID_ATIVIDADE": 60961,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82424,
+                "ID_ATIVIDADE": 60961,
+                "DT_RESPOSTA": "2020-04-16T12:37:21.953",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82424,
+            "ID_ATIVIDADE": 60962,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82424,
+                "ID_ATIVIDADE": 60962,
+                "DT_RESPOSTA": "2020-04-16T12:37:23.883",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82424,
+            "ID_ATIVIDADE": 60963,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82424,
+                "ID_ATIVIDADE": 60963,
+                "DT_RESPOSTA": "2020-04-16T12:37:26.167",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82424,
+            "ID_ATIVIDADE": 60964,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82424,
+                "ID_ATIVIDADE": 60964,
+                "DT_RESPOSTA": "2020-04-16T12:37:27.733",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82424,
+            "ID_ATIVIDADE": 60965,
+            "NU_PESO": 6,
+            "answers": [
+              {
+                "ID_USUARIO": 82424,
+                "ID_ATIVIDADE": 60965,
+                "DT_RESPOSTA": "2020-04-15T14:30:53.32",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52473",
+        "name": "O que você mais gosta no seu trabalho?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "17/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82424,
+            "ID_ATIVIDADE": 60967,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82424,
+                "ID_ATIVIDADE": 60967,
+                "DT_RESPOSTA": "2020-04-17T12:33:59.133",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82424,
+            "ID_ATIVIDADE": 60968,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82424,
+                "ID_ATIVIDADE": 60968,
+                "DT_RESPOSTA": "2020-04-17T12:35:05.993",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52474",
+        "name": "O que vocês acham da Visão e Missão da Empresa?",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52475",
+        "name": "Redes Sociais",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "23/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82424,
+            "ID_ATIVIDADE": 60971,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82424,
+                "ID_ATIVIDADE": 60971,
+                "DT_RESPOSTA": "2020-04-23T12:19:41.13",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52476",
+        "name": "Vídeo Conferência",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "28/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82424,
+            "ID_ATIVIDADE": 60972,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82424,
+                "ID_ATIVIDADE": 60972,
+                "DT_RESPOSTA": "2020-04-28T13:26:16.523",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52477",
+        "name": "Líder Inspirador",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "04/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82424,
+            "ID_ATIVIDADE": 60974,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82424,
+                "ID_ATIVIDADE": 60974,
+                "DT_RESPOSTA": "2020-05-04T10:59:36.25",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52478",
+        "name": "Dia da camiseta de futebol",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "05/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82424,
+            "ID_ATIVIDADE": 60975,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82424,
+                "ID_ATIVIDADE": 60975,
+                "DT_RESPOSTA": "2020-05-05T10:56:37.95",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52479",
+        "name": "Feedback",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "07/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82424,
+            "ID_ATIVIDADE": 60976,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82424,
+                "ID_ATIVIDADE": 60976,
+                "DT_RESPOSTA": "2020-05-07T12:11:21.347",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52480",
+        "name": "Aplicação de um jogo",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "12/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82424,
+            "ID_ATIVIDADE": 60978,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82424,
+                "ID_ATIVIDADE": 60978,
+                "DT_RESPOSTA": "2020-05-12T12:17:01.917",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52481",
+        "name": "Dia da Fantasia",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "14/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82424,
+            "ID_ATIVIDADE": 60980,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82424,
+                "ID_ATIVIDADE": 60980,
+                "DT_RESPOSTA": "2020-05-14T11:26:16.917",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52482",
+        "name": "Vamos tomar um café?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "19/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82424,
+            "ID_ATIVIDADE": 60981,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82424,
+                "ID_ATIVIDADE": 60981,
+                "DT_RESPOSTA": "2020-05-19T13:33:54.47",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52483",
+        "name": "Laboral",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 82424,
+            "ID_ATIVIDADE": 60982,
+            "NU_PESO": 1,
+            "answers": []
+          },
+          {
+            "ID_USUARIO": 82424,
+            "ID_ATIVIDADE": 60984,
+            "NU_PESO": 4,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52484",
+        "name": "Dia do Super-Herói",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      }
+    ]
+  },
+  {
+    "userid": "82113",
+    "userstatus": "true",
+    "maxScore": "1300",
+    "score": "1000.00",
+    "image": "82113_thumb.png",
+    "position": "1",
+    "myRanking": "false",
+    "round": null,
+    "rounds": [
+      {
+        "roundId": "52472",
+        "name": "O que é cultura e engajamento de equipe?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "15/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82113,
+            "ID_ATIVIDADE": 60961,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82113,
+                "ID_ATIVIDADE": 60961,
+                "DT_RESPOSTA": "2020-04-15T16:09:10.577",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82113,
+            "ID_ATIVIDADE": 60962,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82113,
+                "ID_ATIVIDADE": 60962,
+                "DT_RESPOSTA": "2020-04-15T16:09:12.837",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82113,
+            "ID_ATIVIDADE": 60963,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82113,
+                "ID_ATIVIDADE": 60963,
+                "DT_RESPOSTA": "2020-04-15T16:09:14.97",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82113,
+            "ID_ATIVIDADE": 60964,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82113,
+                "ID_ATIVIDADE": 60964,
+                "DT_RESPOSTA": "2020-04-14T14:38:13.653",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82113,
+            "ID_ATIVIDADE": 60965,
+            "NU_PESO": 6,
+            "answers": [
+              {
+                "ID_USUARIO": 82113,
+                "ID_ATIVIDADE": 60965,
+                "DT_RESPOSTA": "2020-04-15T16:09:54.653",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52473",
+        "name": "O que você mais gosta no seu trabalho?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "17/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82113,
+            "ID_ATIVIDADE": 60967,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82113,
+                "ID_ATIVIDADE": 60967,
+                "DT_RESPOSTA": "2020-04-17T15:40:41.813",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82113,
+            "ID_ATIVIDADE": 60968,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82113,
+                "ID_ATIVIDADE": 60968,
+                "DT_RESPOSTA": "2020-04-17T15:40:03.893",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52474",
+        "name": "O que vocês acham da Visão e Missão da Empresa?",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 82113,
+            "ID_ATIVIDADE": 60969,
+            "NU_PESO": 1,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52475",
+        "name": "Redes Sociais",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "23/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82113,
+            "ID_ATIVIDADE": 60971,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82113,
+                "ID_ATIVIDADE": 60971,
+                "DT_RESPOSTA": "2020-04-23T11:05:24.69",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52476",
+        "name": "Vídeo Conferência",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "05/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82113,
+            "ID_ATIVIDADE": 60972,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82113,
+                "ID_ATIVIDADE": 60972,
+                "DT_RESPOSTA": "2020-05-05T17:02:12.497",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52477",
+        "name": "Líder Inspirador",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "05/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82113,
+            "ID_ATIVIDADE": 60974,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82113,
+                "ID_ATIVIDADE": 60974,
+                "DT_RESPOSTA": "2020-05-05T14:59:59.29",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52478",
+        "name": "Dia da camiseta de futebol",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "05/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82113,
+            "ID_ATIVIDADE": 60975,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82113,
+                "ID_ATIVIDADE": 60975,
+                "DT_RESPOSTA": "2020-05-05T15:01:50.3",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52479",
+        "name": "Feedback",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "07/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82113,
+            "ID_ATIVIDADE": 60976,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82113,
+                "ID_ATIVIDADE": 60976,
+                "DT_RESPOSTA": "2020-05-07T14:56:10.007",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52480",
+        "name": "Aplicação de um jogo",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "14/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82113,
+            "ID_ATIVIDADE": 60978,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82113,
+                "ID_ATIVIDADE": 60978,
+                "DT_RESPOSTA": "2020-05-14T10:51:59.843",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52481",
+        "name": "Dia da Fantasia",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "14/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82113,
+            "ID_ATIVIDADE": 60980,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82113,
+                "ID_ATIVIDADE": 60980,
+                "DT_RESPOSTA": "2020-05-14T14:21:49.237",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52482",
+        "name": "Vamos tomar um café?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "21/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82113,
+            "ID_ATIVIDADE": 60981,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82113,
+                "ID_ATIVIDADE": 60981,
+                "DT_RESPOSTA": "2020-05-21T15:06:00.427",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52483",
+        "name": "Laboral",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "em_andamento",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 82113,
+            "ID_ATIVIDADE": 60982,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82113,
+                "ID_ATIVIDADE": 60982,
+                "DT_RESPOSTA": "2020-04-14T16:21:35.35",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82113,
+            "ID_ATIVIDADE": 60984,
+            "NU_PESO": 4,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52484",
+        "name": "Dia do Super-Herói",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 82113,
+            "ID_ATIVIDADE": 60986,
+            "NU_PESO": 1,
+            "answers": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userid": "255480",
+    "userstatus": "true",
+    "maxScore": "1300",
+    "score": "780.00",
+    "image": "255480_thumb.png",
+    "position": "2",
+    "myRanking": "false",
+    "round": null,
+    "rounds": [
+      {
+        "roundId": "52472",
+        "name": "O que é cultura e engajamento de equipe?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "15/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "1",
+        "activities": [
+          {
+            "ID_USUARIO": 255480,
+            "ID_ATIVIDADE": 60961,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 255480,
+                "ID_ATIVIDADE": 60961,
+                "DT_RESPOSTA": "2020-04-15T19:18:01.273",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 255480,
+            "ID_ATIVIDADE": 60962,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 255480,
+                "ID_ATIVIDADE": 60962,
+                "DT_RESPOSTA": "2020-04-15T19:18:03.44",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 255480,
+            "ID_ATIVIDADE": 60963,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 255480,
+                "ID_ATIVIDADE": 60963,
+                "DT_RESPOSTA": "2020-04-15T19:18:04.61",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 255480,
+            "ID_ATIVIDADE": 60964,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 255480,
+                "ID_ATIVIDADE": 60964,
+                "DT_RESPOSTA": "2020-04-15T19:18:07.13",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 255480,
+            "ID_ATIVIDADE": 60965,
+            "NU_PESO": 6,
+            "answers": [
+              {
+                "ID_USUARIO": 255480,
+                "ID_ATIVIDADE": 60965,
+                "DT_RESPOSTA": "2020-04-15T19:15:43.877",
+                "NU_PORCENTAGEM_ACERTOS": 0.67
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52473",
+        "name": "O que você mais gosta no seu trabalho?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "20/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 255480,
+            "ID_ATIVIDADE": 60967,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 255480,
+                "ID_ATIVIDADE": 60967,
+                "DT_RESPOSTA": "2020-04-16T17:36:04.397",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 255480,
+            "ID_ATIVIDADE": 60968,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 255480,
+                "ID_ATIVIDADE": 60968,
+                "DT_RESPOSTA": "2020-04-20T00:00:00",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52474",
+        "name": "O que vocês acham da Visão e Missão da Empresa?",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 255480,
+            "ID_ATIVIDADE": 60969,
+            "NU_PESO": 1,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52475",
+        "name": "Redes Sociais",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "24/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 255480,
+            "ID_ATIVIDADE": 60971,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 255480,
+                "ID_ATIVIDADE": 60971,
+                "DT_RESPOSTA": "2020-04-24T10:08:54.51",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52476",
+        "name": "Vídeo Conferência",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "05/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 255480,
+            "ID_ATIVIDADE": 60972,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 255480,
+                "ID_ATIVIDADE": 60972,
+                "DT_RESPOSTA": "2020-05-05T16:19:23.41",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52477",
+        "name": "Líder Inspirador",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "05/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 255480,
+            "ID_ATIVIDADE": 60974,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 255480,
+                "ID_ATIVIDADE": 60974,
+                "DT_RESPOSTA": "2020-05-05T15:40:44.163",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52478",
+        "name": "Dia da camiseta de futebol",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "05/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 255480,
+            "ID_ATIVIDADE": 60975,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 255480,
+                "ID_ATIVIDADE": 60975,
+                "DT_RESPOSTA": "2020-05-05T15:52:55.603",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52479",
+        "name": "Feedback",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "12/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 255480,
+            "ID_ATIVIDADE": 60976,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 255480,
+                "ID_ATIVIDADE": 60976,
+                "DT_RESPOSTA": "2020-05-12T15:13:48.533",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52480",
+        "name": "Aplicação de um jogo",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 255480,
+            "ID_ATIVIDADE": 60978,
+            "NU_PESO": 1,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52481",
+        "name": "Dia da Fantasia",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 255480,
+            "ID_ATIVIDADE": 60980,
+            "NU_PESO": 1,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52482",
+        "name": "Vamos tomar um café?",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52483",
+        "name": "Laboral",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "em_andamento",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 255480,
+            "ID_ATIVIDADE": 60982,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 255480,
+                "ID_ATIVIDADE": 60982,
+                "DT_RESPOSTA": "2020-05-26T13:17:56.47",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 255480,
+            "ID_ATIVIDADE": 60984,
+            "NU_PESO": 4,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52484",
+        "name": "Dia do Super-Herói",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "01/06/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 255480,
+            "ID_ATIVIDADE": 60986,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 255480,
+                "ID_ATIVIDADE": 60986,
+                "DT_RESPOSTA": "2020-06-01T09:08:28.55",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userid": "82427",
+    "userstatus": "true",
+    "maxScore": "1300",
+    "score": "900.00",
+    "image": "82427_thumb.png",
+    "position": "1",
+    "myRanking": "false",
+    "round": null,
+    "rounds": [
+      {
+        "roundId": "52472",
+        "name": "O que é cultura e engajamento de equipe?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "22/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82427,
+            "ID_ATIVIDADE": 60961,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82427,
+                "ID_ATIVIDADE": 60961,
+                "DT_RESPOSTA": "2020-04-22T08:02:51.863",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82427,
+            "ID_ATIVIDADE": 60962,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82427,
+                "ID_ATIVIDADE": 60962,
+                "DT_RESPOSTA": "2020-04-22T08:03:02.067",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82427,
+            "ID_ATIVIDADE": 60963,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82427,
+                "ID_ATIVIDADE": 60963,
+                "DT_RESPOSTA": "2020-04-22T08:03:13.83",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82427,
+            "ID_ATIVIDADE": 60964,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82427,
+                "ID_ATIVIDADE": 60964,
+                "DT_RESPOSTA": "2020-04-22T08:03:36.173",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82427,
+            "ID_ATIVIDADE": 60965,
+            "NU_PESO": 6,
+            "answers": [
+              {
+                "ID_USUARIO": 82427,
+                "ID_ATIVIDADE": 60965,
+                "DT_RESPOSTA": "2020-04-22T08:04:10.937",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52473",
+        "name": "O que você mais gosta no seu trabalho?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "22/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82427,
+            "ID_ATIVIDADE": 60967,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82427,
+                "ID_ATIVIDADE": 60967,
+                "DT_RESPOSTA": "2020-04-22T08:04:58.637",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82427,
+            "ID_ATIVIDADE": 60968,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82427,
+                "ID_ATIVIDADE": 60968,
+                "DT_RESPOSTA": "2020-04-22T08:06:03.097",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52474",
+        "name": "O que vocês acham da Visão e Missão da Empresa?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "22/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82427,
+            "ID_ATIVIDADE": 60969,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82427,
+                "ID_ATIVIDADE": 60969,
+                "DT_RESPOSTA": "2020-04-22T08:08:11.453",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52475",
+        "name": "Redes Sociais",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 82427,
+            "ID_ATIVIDADE": 60971,
+            "NU_PESO": 1,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52476",
+        "name": "Vídeo Conferência",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52477",
+        "name": "Líder Inspirador",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "07/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82427,
+            "ID_ATIVIDADE": 60974,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82427,
+                "ID_ATIVIDADE": 60974,
+                "DT_RESPOSTA": "2020-05-07T13:25:26.143",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52478",
+        "name": "Dia da camiseta de futebol",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "07/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82427,
+            "ID_ATIVIDADE": 60975,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82427,
+                "ID_ATIVIDADE": 60975,
+                "DT_RESPOSTA": "2020-05-07T13:29:25.18",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52479",
+        "name": "Feedback",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "07/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82427,
+            "ID_ATIVIDADE": 60976,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82427,
+                "ID_ATIVIDADE": 60976,
+                "DT_RESPOSTA": "2020-05-07T15:31:57.39",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52480",
+        "name": "Aplicação de um jogo",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "realizado_fora_prazo",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "19/05/2020",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 82427,
+            "ID_ATIVIDADE": 60978,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82427,
+                "ID_ATIVIDADE": 60978,
+                "DT_RESPOSTA": "2020-05-19T09:16:21.063",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52481",
+        "name": "Dia da Fantasia",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "19/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82427,
+            "ID_ATIVIDADE": 60980,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82427,
+                "ID_ATIVIDADE": 60980,
+                "DT_RESPOSTA": "2020-05-19T09:18:42.89",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52482",
+        "name": "Vamos tomar um café?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "24/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82427,
+            "ID_ATIVIDADE": 60981,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82427,
+                "ID_ATIVIDADE": 60981,
+                "DT_RESPOSTA": "2020-05-24T15:21:26.333",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52483",
+        "name": "Laboral",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "24/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82427,
+            "ID_ATIVIDADE": 60982,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82427,
+                "ID_ATIVIDADE": 60982,
+                "DT_RESPOSTA": "2020-05-24T15:21:45.9",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82427,
+            "ID_ATIVIDADE": 60984,
+            "NU_PESO": 4,
+            "answers": [
+              {
+                "ID_USUARIO": 82427,
+                "ID_ATIVIDADE": 60984,
+                "DT_RESPOSTA": "2020-05-24T15:22:08.267",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52484",
+        "name": "Dia do Super-Herói",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "realizado_fora_prazo",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "05/06/2020",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 82427,
+            "ID_ATIVIDADE": 60986,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82427,
+                "ID_ATIVIDADE": 60986,
+                "DT_RESPOSTA": "2020-06-05T11:09:17.9",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userid": "179165",
+    "userstatus": "true",
+    "maxScore": "1300",
+    "score": "800.00",
+    "image": "179165_thumb.png",
+    "position": "2",
+    "myRanking": "false",
+    "round": null,
+    "rounds": [
+      {
+        "roundId": "52472",
+        "name": "O que é cultura e engajamento de equipe?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "22/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 179165,
+            "ID_ATIVIDADE": 60961,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 179165,
+                "ID_ATIVIDADE": 60961,
+                "DT_RESPOSTA": "2020-04-22T09:34:37.897",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 179165,
+            "ID_ATIVIDADE": 60962,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 179165,
+                "ID_ATIVIDADE": 60962,
+                "DT_RESPOSTA": "2020-04-22T09:35:00.843",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 179165,
+            "ID_ATIVIDADE": 60963,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 179165,
+                "ID_ATIVIDADE": 60963,
+                "DT_RESPOSTA": "2020-04-22T09:37:05.86",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 179165,
+            "ID_ATIVIDADE": 60964,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 179165,
+                "ID_ATIVIDADE": 60964,
+                "DT_RESPOSTA": "2020-04-22T09:37:43.9",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 179165,
+            "ID_ATIVIDADE": 60965,
+            "NU_PESO": 6,
+            "answers": [
+              {
+                "ID_USUARIO": 179165,
+                "ID_ATIVIDADE": 60965,
+                "DT_RESPOSTA": "2020-04-22T09:40:31.98",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52473",
+        "name": "O que você mais gosta no seu trabalho?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "22/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 179165,
+            "ID_ATIVIDADE": 60967,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 179165,
+                "ID_ATIVIDADE": 60967,
+                "DT_RESPOSTA": "2020-04-22T09:54:22.867",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 179165,
+            "ID_ATIVIDADE": 60968,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 179165,
+                "ID_ATIVIDADE": 60968,
+                "DT_RESPOSTA": "2020-04-22T09:58:08.033",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52474",
+        "name": "O que vocês acham da Visão e Missão da Empresa?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "22/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 179165,
+            "ID_ATIVIDADE": 60969,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 179165,
+                "ID_ATIVIDADE": 60969,
+                "DT_RESPOSTA": "2020-04-22T10:09:15.813",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52475",
+        "name": "Redes Sociais",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 179165,
+            "ID_ATIVIDADE": 60971,
+            "NU_PESO": 1,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52476",
+        "name": "Vídeo Conferência",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "05/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 179165,
+            "ID_ATIVIDADE": 60972,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 179165,
+                "ID_ATIVIDADE": 60972,
+                "DT_RESPOSTA": "2020-05-05T16:01:33.27",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52477",
+        "name": "Líder Inspirador",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "07/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 179165,
+            "ID_ATIVIDADE": 60974,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 179165,
+                "ID_ATIVIDADE": 60974,
+                "DT_RESPOSTA": "2020-05-07T09:48:47.663",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52478",
+        "name": "Dia da camiseta de futebol",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "10/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 179165,
+            "ID_ATIVIDADE": 60975,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 179165,
+                "ID_ATIVIDADE": 60975,
+                "DT_RESPOSTA": "2020-05-10T00:50:45.687",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52479",
+        "name": "Feedback",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "07/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 179165,
+            "ID_ATIVIDADE": 60976,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 179165,
+                "ID_ATIVIDADE": 60976,
+                "DT_RESPOSTA": "2020-05-07T17:21:04.63",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52480",
+        "name": "Aplicação de um jogo",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 179165,
+            "ID_ATIVIDADE": 60978,
+            "NU_PESO": 1,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52481",
+        "name": "Dia da Fantasia",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 179165,
+            "ID_ATIVIDADE": 60980,
+            "NU_PESO": 1,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52482",
+        "name": "Vamos tomar um café?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "19/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 179165,
+            "ID_ATIVIDADE": 60981,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 179165,
+                "ID_ATIVIDADE": 60981,
+                "DT_RESPOSTA": "2020-05-19T16:25:23.23",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52483",
+        "name": "Laboral",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52484",
+        "name": "Dia do Super-Herói",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      }
+    ]
+  },
+  {
+    "userid": "237030",
+    "userstatus": "true",
+    "maxScore": "1300",
+    "score": "400.00",
+    "image": "237030_thumb.png",
+    "position": "3",
+    "myRanking": "false",
+    "round": null,
+    "rounds": [
+      {
+        "roundId": "52472",
+        "name": "O que é cultura e engajamento de equipe?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "22/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 237030,
+            "ID_ATIVIDADE": 60961,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 237030,
+                "ID_ATIVIDADE": 60961,
+                "DT_RESPOSTA": "2020-04-22T09:56:08.203",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 237030,
+            "ID_ATIVIDADE": 60962,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 237030,
+                "ID_ATIVIDADE": 60962,
+                "DT_RESPOSTA": "2020-04-22T09:56:11.89",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 237030,
+            "ID_ATIVIDADE": 60963,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 237030,
+                "ID_ATIVIDADE": 60963,
+                "DT_RESPOSTA": "2020-04-22T09:56:13.347",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 237030,
+            "ID_ATIVIDADE": 60964,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 237030,
+                "ID_ATIVIDADE": 60964,
+                "DT_RESPOSTA": "2020-04-22T09:56:14.31",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 237030,
+            "ID_ATIVIDADE": 60965,
+            "NU_PESO": 6,
+            "answers": [
+              {
+                "ID_USUARIO": 237030,
+                "ID_ATIVIDADE": 60965,
+                "DT_RESPOSTA": "2020-04-22T09:55:58.19",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52473",
+        "name": "O que você mais gosta no seu trabalho?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "22/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 237030,
+            "ID_ATIVIDADE": 60967,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 237030,
+                "ID_ATIVIDADE": 60967,
+                "DT_RESPOSTA": "2020-04-22T09:57:36.987",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 237030,
+            "ID_ATIVIDADE": 60968,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 237030,
+                "ID_ATIVIDADE": 60968,
+                "DT_RESPOSTA": "2020-04-22T10:00:58.72",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52474",
+        "name": "O que vocês acham da Visão e Missão da Empresa?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "22/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 237030,
+            "ID_ATIVIDADE": 60969,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 237030,
+                "ID_ATIVIDADE": 60969,
+                "DT_RESPOSTA": "2020-04-22T10:09:13.917",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52475",
+        "name": "Redes Sociais",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 237030,
+            "ID_ATIVIDADE": 60971,
+            "NU_PESO": 1,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52476",
+        "name": "Vídeo Conferência",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 237030,
+            "ID_ATIVIDADE": 60972,
+            "NU_PESO": 1,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52477",
+        "name": "Líder Inspirador",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 237030,
+            "ID_ATIVIDADE": 60974,
+            "NU_PESO": 1,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52478",
+        "name": "Dia da camiseta de futebol",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52479",
+        "name": "Feedback",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "07/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 237030,
+            "ID_ATIVIDADE": 60976,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 237030,
+                "ID_ATIVIDADE": 60976,
+                "DT_RESPOSTA": "2020-05-07T15:31:48.38",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52480",
+        "name": "Aplicação de um jogo",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52481",
+        "name": "Dia da Fantasia",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52482",
+        "name": "Vamos tomar um café?",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52483",
+        "name": "Laboral",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52484",
+        "name": "Dia do Super-Herói",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      }
+    ]
+  },
+  {
+    "userid": "82423",
+    "userstatus": "true",
+    "maxScore": "1300",
+    "score": "1200.00",
+    "image": "82423_thumb.png",
+    "position": "1",
+    "myRanking": "false",
+    "round": null,
+    "rounds": [
+      {
+        "roundId": "52472",
+        "name": "O que é cultura e engajamento de equipe?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "15/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82423,
+            "ID_ATIVIDADE": 60961,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82423,
+                "ID_ATIVIDADE": 60961,
+                "DT_RESPOSTA": "2020-04-15T14:23:21.2",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82423,
+            "ID_ATIVIDADE": 60962,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82423,
+                "ID_ATIVIDADE": 60962,
+                "DT_RESPOSTA": "2020-04-15T14:23:33.177",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82423,
+            "ID_ATIVIDADE": 60963,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82423,
+                "ID_ATIVIDADE": 60963,
+                "DT_RESPOSTA": "2020-04-15T14:27:59.65",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82423,
+            "ID_ATIVIDADE": 60964,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82423,
+                "ID_ATIVIDADE": 60964,
+                "DT_RESPOSTA": "2020-04-15T14:28:00.883",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82423,
+            "ID_ATIVIDADE": 60965,
+            "NU_PESO": 6,
+            "answers": [
+              {
+                "ID_USUARIO": 82423,
+                "ID_ATIVIDADE": 60965,
+                "DT_RESPOSTA": "2020-04-15T14:26:08.487",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52473",
+        "name": "O que você mais gosta no seu trabalho?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "16/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82423,
+            "ID_ATIVIDADE": 60967,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82423,
+                "ID_ATIVIDADE": 60967,
+                "DT_RESPOSTA": "2020-04-16T17:40:52.963",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82423,
+            "ID_ATIVIDADE": 60968,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82423,
+                "ID_ATIVIDADE": 60968,
+                "DT_RESPOSTA": "2020-04-16T17:55:30.737",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52474",
+        "name": "O que vocês acham da Visão e Missão da Empresa?",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 82423,
+            "ID_ATIVIDADE": 60969,
+            "NU_PESO": 1,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52475",
+        "name": "Redes Sociais",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "23/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82423,
+            "ID_ATIVIDADE": 60971,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82423,
+                "ID_ATIVIDADE": 60971,
+                "DT_RESPOSTA": "2020-04-23T10:57:35.68",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52476",
+        "name": "Vídeo Conferência",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "28/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82423,
+            "ID_ATIVIDADE": 60972,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82423,
+                "ID_ATIVIDADE": 60972,
+                "DT_RESPOSTA": "2020-04-28T12:21:45.837",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52477",
+        "name": "Líder Inspirador",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "30/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82423,
+            "ID_ATIVIDADE": 60974,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82423,
+                "ID_ATIVIDADE": 60974,
+                "DT_RESPOSTA": "2020-04-30T12:36:14.167",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52478",
+        "name": "Dia da camiseta de futebol",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "05/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82423,
+            "ID_ATIVIDADE": 60975,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82423,
+                "ID_ATIVIDADE": 60975,
+                "DT_RESPOSTA": "2020-05-05T09:44:45.547",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52479",
+        "name": "Feedback",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "07/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82423,
+            "ID_ATIVIDADE": 60976,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82423,
+                "ID_ATIVIDADE": 60976,
+                "DT_RESPOSTA": "2020-05-07T09:49:54.55",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52480",
+        "name": "Aplicação de um jogo",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "12/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82423,
+            "ID_ATIVIDADE": 60978,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82423,
+                "ID_ATIVIDADE": 60978,
+                "DT_RESPOSTA": "2020-05-12T12:02:47.333",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52481",
+        "name": "Dia da Fantasia",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "14/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82423,
+            "ID_ATIVIDADE": 60980,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82423,
+                "ID_ATIVIDADE": 60980,
+                "DT_RESPOSTA": "2020-05-14T09:56:00.17",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52482",
+        "name": "Vamos tomar um café?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "19/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82423,
+            "ID_ATIVIDADE": 60981,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82423,
+                "ID_ATIVIDADE": 60981,
+                "DT_RESPOSTA": "2020-05-19T09:50:37.79",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52483",
+        "name": "Laboral",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "21/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82423,
+            "ID_ATIVIDADE": 60982,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82423,
+                "ID_ATIVIDADE": 60982,
+                "DT_RESPOSTA": "2020-05-21T08:47:17.927",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82423,
+            "ID_ATIVIDADE": 60984,
+            "NU_PESO": 4,
+            "answers": [
+              {
+                "ID_USUARIO": 82423,
+                "ID_ATIVIDADE": 60984,
+                "DT_RESPOSTA": "2020-05-21T10:45:30.57",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52484",
+        "name": "Dia do Super-Herói",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "30/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82423,
+            "ID_ATIVIDADE": 60986,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82423,
+                "ID_ATIVIDADE": 60986,
+                "DT_RESPOSTA": "2020-05-30T15:48:20.017",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userid": "146268",
+    "userstatus": "true",
+    "maxScore": "1300",
+    "score": "1200.00",
+    "image": "146268_thumb.png",
+    "position": "2",
+    "myRanking": "false",
+    "round": null,
+    "rounds": [
+      {
+        "roundId": "52472",
+        "name": "O que é cultura e engajamento de equipe?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "17/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 146268,
+            "ID_ATIVIDADE": 60961,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 146268,
+                "ID_ATIVIDADE": 60961,
+                "DT_RESPOSTA": "2020-04-17T18:04:02.53",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 146268,
+            "ID_ATIVIDADE": 60962,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 146268,
+                "ID_ATIVIDADE": 60962,
+                "DT_RESPOSTA": "2020-04-17T18:04:26.243",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 146268,
+            "ID_ATIVIDADE": 60963,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 146268,
+                "ID_ATIVIDADE": 60963,
+                "DT_RESPOSTA": "2020-04-17T18:05:27.02",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 146268,
+            "ID_ATIVIDADE": 60964,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 146268,
+                "ID_ATIVIDADE": 60964,
+                "DT_RESPOSTA": "2020-04-17T18:05:33.38",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 146268,
+            "ID_ATIVIDADE": 60965,
+            "NU_PESO": 6,
+            "answers": [
+              {
+                "ID_USUARIO": 146268,
+                "ID_ATIVIDADE": 60965,
+                "DT_RESPOSTA": "2020-04-17T18:06:21.287",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52473",
+        "name": "O que você mais gosta no seu trabalho?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "17/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 146268,
+            "ID_ATIVIDADE": 60967,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 146268,
+                "ID_ATIVIDADE": 60967,
+                "DT_RESPOSTA": "2020-04-17T18:07:59.55",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 146268,
+            "ID_ATIVIDADE": 60968,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 146268,
+                "ID_ATIVIDADE": 60968,
+                "DT_RESPOSTA": "2020-04-17T18:12:17.337",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52474",
+        "name": "O que vocês acham da Visão e Missão da Empresa?",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 146268,
+            "ID_ATIVIDADE": 60969,
+            "NU_PESO": 1,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52475",
+        "name": "Redes Sociais",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "23/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 146268,
+            "ID_ATIVIDADE": 60971,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 146268,
+                "ID_ATIVIDADE": 60971,
+                "DT_RESPOSTA": "2020-04-23T15:23:10.66",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52476",
+        "name": "Vídeo Conferência",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "28/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 146268,
+            "ID_ATIVIDADE": 60972,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 146268,
+                "ID_ATIVIDADE": 60972,
+                "DT_RESPOSTA": "2020-04-28T17:50:56.397",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52477",
+        "name": "Líder Inspirador",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "30/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 146268,
+            "ID_ATIVIDADE": 60974,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 146268,
+                "ID_ATIVIDADE": 60974,
+                "DT_RESPOSTA": "2020-04-30T11:29:02.24",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52478",
+        "name": "Dia da camiseta de futebol",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "06/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 146268,
+            "ID_ATIVIDADE": 60975,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 146268,
+                "ID_ATIVIDADE": 60975,
+                "DT_RESPOSTA": "2020-05-06T14:51:11.303",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52479",
+        "name": "Feedback",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "07/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 146268,
+            "ID_ATIVIDADE": 60976,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 146268,
+                "ID_ATIVIDADE": 60976,
+                "DT_RESPOSTA": "2020-05-07T12:48:53.27",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52480",
+        "name": "Aplicação de um jogo",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "12/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 146268,
+            "ID_ATIVIDADE": 60978,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 146268,
+                "ID_ATIVIDADE": 60978,
+                "DT_RESPOSTA": "2020-05-12T12:04:54.997",
+                "NU_PORCENTAGEM_ACERTOS": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52481",
+        "name": "Dia da Fantasia",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "14/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 146268,
+            "ID_ATIVIDADE": 60980,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 146268,
+                "ID_ATIVIDADE": 60980,
+                "DT_RESPOSTA": "2020-05-14T16:44:40.127",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52482",
+        "name": "Vamos tomar um café?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "21/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 146268,
+            "ID_ATIVIDADE": 60981,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 146268,
+                "ID_ATIVIDADE": 60981,
+                "DT_RESPOSTA": "2020-05-21T18:37:01",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52483",
+        "name": "Laboral",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "21/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 146268,
+            "ID_ATIVIDADE": 60982,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 146268,
+                "ID_ATIVIDADE": 60982,
+                "DT_RESPOSTA": "2020-05-21T18:42:59.24",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 146268,
+            "ID_ATIVIDADE": 60984,
+            "NU_PESO": 4,
+            "answers": [
+              {
+                "ID_USUARIO": 146268,
+                "ID_ATIVIDADE": 60984,
+                "DT_RESPOSTA": "2020-05-21T18:47:36.89",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52484",
+        "name": "Dia do Super-Herói",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "01/06/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 146268,
+            "ID_ATIVIDADE": 60986,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 146268,
+                "ID_ATIVIDADE": 60986,
+                "DT_RESPOSTA": "2020-06-01T20:27:10.737",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userid": "82421",
+    "userstatus": "true",
+    "maxScore": "1300",
+    "score": "800.00",
+    "image": "82421_thumb.png",
+    "position": "3",
+    "myRanking": "false",
+    "round": null,
+    "rounds": [
+      {
+        "roundId": "52472",
+        "name": "O que é cultura e engajamento de equipe?",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 82421,
+            "ID_ATIVIDADE": 60961,
+            "NU_PESO": 1,
+            "answers": []
+          },
+          {
+            "ID_USUARIO": 82421,
+            "ID_ATIVIDADE": 60962,
+            "NU_PESO": 1,
+            "answers": []
+          },
+          {
+            "ID_USUARIO": 82421,
+            "ID_ATIVIDADE": 60963,
+            "NU_PESO": 1,
+            "answers": []
+          },
+          {
+            "ID_USUARIO": 82421,
+            "ID_ATIVIDADE": 60964,
+            "NU_PESO": 1,
+            "answers": []
+          },
+          {
+            "ID_USUARIO": 82421,
+            "ID_ATIVIDADE": 60965,
+            "NU_PESO": 6,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52473",
+        "name": "O que você mais gosta no seu trabalho?",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 82421,
+            "ID_ATIVIDADE": 60967,
+            "NU_PESO": 1,
+            "answers": []
+          },
+          {
+            "ID_USUARIO": 82421,
+            "ID_ATIVIDADE": 60968,
+            "NU_PESO": 1,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52474",
+        "name": "O que vocês acham da Visão e Missão da Empresa?",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 82421,
+            "ID_ATIVIDADE": 60969,
+            "NU_PESO": 1,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52475",
+        "name": "Redes Sociais",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "27/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82421,
+            "ID_ATIVIDADE": 60971,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82421,
+                "ID_ATIVIDADE": 60971,
+                "DT_RESPOSTA": "2020-04-27T14:05:28.297",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52476",
+        "name": "Vídeo Conferência",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "28/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82421,
+            "ID_ATIVIDADE": 60972,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82421,
+                "ID_ATIVIDADE": 60972,
+                "DT_RESPOSTA": "2020-04-28T11:16:34.753",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52477",
+        "name": "Líder Inspirador",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "06/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82421,
+            "ID_ATIVIDADE": 60974,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82421,
+                "ID_ATIVIDADE": 60974,
+                "DT_RESPOSTA": "2020-05-06T14:28:46.767",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52478",
+        "name": "Dia da camiseta de futebol",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "06/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82421,
+            "ID_ATIVIDADE": 60975,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82421,
+                "ID_ATIVIDADE": 60975,
+                "DT_RESPOSTA": "2020-05-06T18:33:36.743",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52479",
+        "name": "Feedback",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "07/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82421,
+            "ID_ATIVIDADE": 60976,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82421,
+                "ID_ATIVIDADE": 60976,
+                "DT_RESPOSTA": "2020-05-07T10:15:20.047",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52480",
+        "name": "Aplicação de um jogo",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 82421,
+            "ID_ATIVIDADE": 60978,
+            "NU_PESO": 1,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52481",
+        "name": "Dia da Fantasia",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "14/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82421,
+            "ID_ATIVIDADE": 60980,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82421,
+                "ID_ATIVIDADE": 60980,
+                "DT_RESPOSTA": "2020-05-14T10:14:24.203",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52482",
+        "name": "Vamos tomar um café?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "21/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82421,
+            "ID_ATIVIDADE": 60981,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82421,
+                "ID_ATIVIDADE": 60981,
+                "DT_RESPOSTA": "2020-05-21T18:51:39.53",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52483",
+        "name": "Laboral",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "em_andamento",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 82421,
+            "ID_ATIVIDADE": 60982,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82421,
+                "ID_ATIVIDADE": 60982,
+                "DT_RESPOSTA": "2020-05-21T18:52:34.247",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82421,
+            "ID_ATIVIDADE": 60984,
+            "NU_PESO": 4,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52484",
+        "name": "Dia do Super-Herói",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "03/06/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82421,
+            "ID_ATIVIDADE": 60986,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82421,
+                "ID_ATIVIDADE": 60986,
+                "DT_RESPOSTA": "2020-06-03T17:36:26.303",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userid": "237248",
+    "userstatus": "true",
+    "maxScore": "1300",
+    "score": "500.00",
+    "image": "237248_thumb.png",
+    "position": "4",
+    "myRanking": "false",
+    "round": null,
+    "rounds": [
+      {
+        "roundId": "52472",
+        "name": "O que é cultura e engajamento de equipe?",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52473",
+        "name": "O que você mais gosta no seu trabalho?",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52474",
+        "name": "O que vocês acham da Visão e Missão da Empresa?",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52475",
+        "name": "Redes Sociais",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52476",
+        "name": "Vídeo Conferência",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52477",
+        "name": "Líder Inspirador",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "07/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 237248,
+            "ID_ATIVIDADE": 60974,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 237248,
+                "ID_ATIVIDADE": 60974,
+                "DT_RESPOSTA": "2020-05-07T19:42:06.17",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52478",
+        "name": "Dia da camiseta de futebol",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "07/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 237248,
+            "ID_ATIVIDADE": 60975,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 237248,
+                "ID_ATIVIDADE": 60975,
+                "DT_RESPOSTA": "2020-05-07T19:46:28.457",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52479",
+        "name": "Feedback",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "07/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 237248,
+            "ID_ATIVIDADE": 60976,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 237248,
+                "ID_ATIVIDADE": 60976,
+                "DT_RESPOSTA": "2020-05-07T19:48:14.993",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52480",
+        "name": "Aplicação de um jogo",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 237248,
+            "ID_ATIVIDADE": 60978,
+            "NU_PESO": 1,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52481",
+        "name": "Dia da Fantasia",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52482",
+        "name": "Vamos tomar um café?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "22/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 237248,
+            "ID_ATIVIDADE": 60981,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 237248,
+                "ID_ATIVIDADE": 60981,
+                "DT_RESPOSTA": "2020-05-22T12:28:09.2",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52483",
+        "name": "Laboral",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "22/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 237248,
+            "ID_ATIVIDADE": 60982,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 237248,
+                "ID_ATIVIDADE": 60982,
+                "DT_RESPOSTA": "2020-05-22T12:29:06.27",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 237248,
+            "ID_ATIVIDADE": 60984,
+            "NU_PESO": 4,
+            "answers": [
+              {
+                "ID_USUARIO": 237248,
+                "ID_ATIVIDADE": 60984,
+                "DT_RESPOSTA": "2020-05-22T12:29:59.41",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52484",
+        "name": "Dia do Super-Herói",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      }
+    ]
+  },
+  {
+    "userid": "257845",
+    "userstatus": "true",
+    "maxScore": "1300",
+    "score": "200.00",
+    "image": "257845_thumb.png",
+    "position": "5",
+    "myRanking": "false",
+    "round": null,
+    "rounds": [
+      {
+        "roundId": "52472",
+        "name": "O que é cultura e engajamento de equipe?",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52473",
+        "name": "O que você mais gosta no seu trabalho?",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52474",
+        "name": "O que vocês acham da Visão e Missão da Empresa?",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52475",
+        "name": "Redes Sociais",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52476",
+        "name": "Vídeo Conferência",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52477",
+        "name": "Líder Inspirador",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "07/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 257845,
+            "ID_ATIVIDADE": 60974,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 257845,
+                "ID_ATIVIDADE": 60974,
+                "DT_RESPOSTA": "2020-05-07T19:48:28.663",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52478",
+        "name": "Dia da camiseta de futebol",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52479",
+        "name": "Feedback",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "12/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 257845,
+            "ID_ATIVIDADE": 60976,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 257845,
+                "ID_ATIVIDADE": 60976,
+                "DT_RESPOSTA": "2020-05-12T15:29:00.797",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52480",
+        "name": "Aplicação de um jogo",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 257845,
+            "ID_ATIVIDADE": 60978,
+            "NU_PESO": 1,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52481",
+        "name": "Dia da Fantasia",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52482",
+        "name": "Vamos tomar um café?",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52483",
+        "name": "Laboral",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52484",
+        "name": "Dia do Super-Herói",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      }
+    ]
+  },
+  {
+    "userid": "276080",
+    "userstatus": "true",
+    "maxScore": "1300",
+    "score": "0.00",
+    "image": "https://s3dev.engage.bz/treinamentoengage/custom/sem_avatar.png",
+    "position": "6",
+    "myRanking": "false",
+    "round": null,
+    "rounds": [
+      {
+        "roundId": "52472",
+        "name": "O que é cultura e engajamento de equipe?",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52473",
+        "name": "O que você mais gosta no seu trabalho?",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52474",
+        "name": "O que vocês acham da Visão e Missão da Empresa?",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52475",
+        "name": "Redes Sociais",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52476",
+        "name": "Vídeo Conferência",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52477",
+        "name": "Líder Inspirador",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52478",
+        "name": "Dia da camiseta de futebol",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52479",
+        "name": "Feedback",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52480",
+        "name": "Aplicação de um jogo",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52481",
+        "name": "Dia da Fantasia",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52482",
+        "name": "Vamos tomar um café?",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52483",
+        "name": "Laboral",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52484",
+        "name": "Dia do Super-Herói",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      }
+    ]
+  },
+  {
+    "userid": "82426",
+    "userstatus": "true",
+    "maxScore": "1300",
+    "score": "600.00",
+    "image": "82426_thumb.png",
+    "position": "1",
+    "myRanking": "false",
+    "round": null,
+    "rounds": [
+      {
+        "roundId": "52472",
+        "name": "O que é cultura e engajamento de equipe?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "15/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82426,
+            "ID_ATIVIDADE": 60961,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82426,
+                "ID_ATIVIDADE": 60961,
+                "DT_RESPOSTA": "2020-04-15T14:24:06.057",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82426,
+            "ID_ATIVIDADE": 60962,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82426,
+                "ID_ATIVIDADE": 60962,
+                "DT_RESPOSTA": "2020-04-15T14:24:42.437",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82426,
+            "ID_ATIVIDADE": 60963,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82426,
+                "ID_ATIVIDADE": 60963,
+                "DT_RESPOSTA": "2020-04-15T14:25:14.167",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82426,
+            "ID_ATIVIDADE": 60964,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82426,
+                "ID_ATIVIDADE": 60964,
+                "DT_RESPOSTA": "2020-04-15T14:25:49.46",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82426,
+            "ID_ATIVIDADE": 60965,
+            "NU_PESO": 6,
+            "answers": [
+              {
+                "ID_USUARIO": 82426,
+                "ID_ATIVIDADE": 60965,
+                "DT_RESPOSTA": "2020-04-15T14:27:03.08",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52473",
+        "name": "O que você mais gosta no seu trabalho?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "20/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82426,
+            "ID_ATIVIDADE": 60967,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82426,
+                "ID_ATIVIDADE": 60967,
+                "DT_RESPOSTA": "2020-04-20T17:22:10.35",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 82426,
+            "ID_ATIVIDADE": 60968,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82426,
+                "ID_ATIVIDADE": 60968,
+                "DT_RESPOSTA": "2020-04-20T17:24:08.69",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52474",
+        "name": "O que vocês acham da Visão e Missão da Empresa?",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 82426,
+            "ID_ATIVIDADE": 60969,
+            "NU_PESO": 1,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52475",
+        "name": "Redes Sociais",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "realizado_fora_prazo",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "05/05/2020",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 82426,
+            "ID_ATIVIDADE": 60971,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82426,
+                "ID_ATIVIDADE": 60971,
+                "DT_RESPOSTA": "2020-05-05T15:22:07.937",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52476",
+        "name": "Vídeo Conferência",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "05/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82426,
+            "ID_ATIVIDADE": 60972,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82426,
+                "ID_ATIVIDADE": 60972,
+                "DT_RESPOSTA": "2020-05-05T16:00:17.1",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52477",
+        "name": "Líder Inspirador",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "05/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82426,
+            "ID_ATIVIDADE": 60974,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82426,
+                "ID_ATIVIDADE": 60974,
+                "DT_RESPOSTA": "2020-05-05T15:10:30.583",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52478",
+        "name": "Dia da camiseta de futebol",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "05/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82426,
+            "ID_ATIVIDADE": 60975,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82426,
+                "ID_ATIVIDADE": 60975,
+                "DT_RESPOSTA": "2020-05-05T15:14:07.39",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52479",
+        "name": "Feedback",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "07/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 82426,
+            "ID_ATIVIDADE": 60976,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 82426,
+                "ID_ATIVIDADE": 60976,
+                "DT_RESPOSTA": "2020-05-07T15:34:09.48",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52480",
+        "name": "Aplicação de um jogo",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 82426,
+            "ID_ATIVIDADE": 60978,
+            "NU_PESO": 1,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52481",
+        "name": "Dia da Fantasia",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52482",
+        "name": "Vamos tomar um café?",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52483",
+        "name": "Laboral",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52484",
+        "name": "Dia do Super-Herói",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      }
+    ]
+  },
+  {
+    "userid": "255481",
+    "userstatus": "true",
+    "maxScore": "1300",
+    "score": "400.00",
+    "image": "255481_thumb.png",
+    "position": "1",
+    "myRanking": "false",
+    "round": null,
+    "rounds": [
+      {
+        "roundId": "52472",
+        "name": "O que é cultura e engajamento de equipe?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "20/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 255481,
+            "ID_ATIVIDADE": 60961,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 255481,
+                "ID_ATIVIDADE": 60961,
+                "DT_RESPOSTA": "2020-04-20T10:37:53.157",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 255481,
+            "ID_ATIVIDADE": 60962,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 255481,
+                "ID_ATIVIDADE": 60962,
+                "DT_RESPOSTA": "2020-04-20T10:37:55.517",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 255481,
+            "ID_ATIVIDADE": 60963,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 255481,
+                "ID_ATIVIDADE": 60963,
+                "DT_RESPOSTA": "2020-04-20T10:37:56.71",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 255481,
+            "ID_ATIVIDADE": 60964,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 255481,
+                "ID_ATIVIDADE": 60964,
+                "DT_RESPOSTA": "2020-04-20T10:37:57.92",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 255481,
+            "ID_ATIVIDADE": 60965,
+            "NU_PESO": 6,
+            "answers": [
+              {
+                "ID_USUARIO": 255481,
+                "ID_ATIVIDADE": 60965,
+                "DT_RESPOSTA": "2020-04-20T10:38:59.297",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52473",
+        "name": "O que você mais gosta no seu trabalho?",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "20/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 255481,
+            "ID_ATIVIDADE": 60967,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 255481,
+                "ID_ATIVIDADE": 60967,
+                "DT_RESPOSTA": "2020-04-20T11:11:51.177",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          },
+          {
+            "ID_USUARIO": 255481,
+            "ID_ATIVIDADE": 60968,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 255481,
+                "ID_ATIVIDADE": 60968,
+                "DT_RESPOSTA": "2020-04-16T17:54:37.247",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52474",
+        "name": "O que vocês acham da Visão e Missão da Empresa?",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 255481,
+            "ID_ATIVIDADE": 60969,
+            "NU_PESO": 1,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52475",
+        "name": "Redes Sociais",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "27/04/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 255481,
+            "ID_ATIVIDADE": 60971,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 255481,
+                "ID_ATIVIDADE": 60971,
+                "DT_RESPOSTA": "2020-04-27T08:34:54.937",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52476",
+        "name": "Vídeo Conferência",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 255481,
+            "ID_ATIVIDADE": 60972,
+            "NU_PESO": 1,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52477",
+        "name": "Líder Inspirador",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 255481,
+            "ID_ATIVIDADE": 60974,
+            "NU_PESO": 1,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52478",
+        "name": "Dia da camiseta de futebol",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 255481,
+            "ID_ATIVIDADE": 60975,
+            "NU_PESO": 1,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52479",
+        "name": "Feedback",
+        "status": "done",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "aprovado",
+        "approved": "1",
+        "waiting": "false",
+        "answerdate": "08/05/2020",
+        "showstars": "true",
+        "showscore": "true",
+        "stars": "3",
+        "activities": [
+          {
+            "ID_USUARIO": 255481,
+            "ID_ATIVIDADE": 60976,
+            "NU_PESO": 1,
+            "answers": [
+              {
+                "ID_USUARIO": 255481,
+                "ID_ATIVIDADE": 60976,
+                "DT_RESPOSTA": "2020-05-08T12:53:12.463",
+                "NU_PORCENTAGEM_ACERTOS": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roundId": "52480",
+        "name": "Aplicação de um jogo",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52481",
+        "name": "Dia da Fantasia",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      },
+      {
+        "roundId": "52482",
+        "name": "Vamos tomar um café?",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 255481,
+            "ID_ATIVIDADE": 60981,
+            "NU_PESO": 1,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52483",
+        "name": "Laboral",
+        "status": "current",
+        "roundscorebonus": 100,
+        "lastattemptstatus": "nao_iniciado",
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": [
+          {
+            "ID_USUARIO": 255481,
+            "ID_ATIVIDADE": 60982,
+            "NU_PESO": 1,
+            "answers": []
+          },
+          {
+            "ID_USUARIO": 255481,
+            "ID_ATIVIDADE": 60984,
+            "NU_PESO": 4,
+            "answers": []
+          }
+        ]
+      },
+      {
+        "roundId": "52484",
+        "name": "Dia do Super-Herói",
+        "status": "current",
+        "roundscorebonus": 100,
+        "approved": "0",
+        "waiting": "false",
+        "answerdate": "",
+        "showstars": "true",
+        "showscore": "false",
+        "stars": "0",
+        "activities": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,176 @@
+{
+  "count": 19,
+  "results": [
+    {
+      "user_id": 187837,
+      "user_name": "User 187837",
+      "score": 1300,
+      "max_score": 1300,
+      "bonus": 282226.1306899306,
+      "position": 1,
+      "image": null
+    },
+    {
+      "user_id": 82425,
+      "user_name": "User 82425",
+      "score": 1300,
+      "max_score": 1300,
+      "bonus": 282225.161014699,
+      "position": 2,
+      "image": null
+    },
+    {
+      "user_id": 82423,
+      "user_name": "User 82423",
+      "score": 1200,
+      "max_score": 1300,
+      "bonus": 267363.39841801696,
+      "position": 3,
+      "image": null
+    },
+    {
+      "user_id": 146268,
+      "user_name": "User 146268",
+      "score": 1200,
+      "max_score": 1300,
+      "bonus": 267343.30990501546,
+      "position": 4,
+      "image": null
+    },
+    {
+      "user_id": 185551,
+      "user_name": "User 185551",
+      "score": 1000,
+      "max_score": 1300,
+      "bonus": 222869.08372673608,
+      "position": 5,
+      "image": null
+    },
+    {
+      "user_id": 160278,
+      "user_name": "User 160278",
+      "score": 1000,
+      "max_score": 1300,
+      "bonus": 222866.94594016203,
+      "position": 6,
+      "image": null
+    },
+    {
+      "user_id": 82424,
+      "user_name": "User 82424",
+      "score": 1000,
+      "max_score": 1300,
+      "bonus": 222862.19415868056,
+      "position": 7,
+      "image": null
+    },
+    {
+      "user_id": 82113,
+      "user_name": "User 82113",
+      "score": 1000,
+      "max_score": 1300,
+      "bonus": 222853.6652929012,
+      "position": 8,
+      "image": null
+    },
+    {
+      "user_id": 82427,
+      "user_name": "User 82427",
+      "score": 900,
+      "max_score": 1300,
+      "bonus": 222770.23124814816,
+      "position": 9,
+      "image": null
+    },
+    {
+      "user_id": 179165,
+      "user_name": "User 179165",
+      "score": 800,
+      "max_score": 1300,
+      "bonus": 193125.2261380015,
+      "position": 10,
+      "image": null
+    },
+    {
+      "user_id": 82421,
+      "user_name": "User 82421",
+      "score": 800,
+      "max_score": 1300,
+      "bonus": 118752.1928629244,
+      "position": 11,
+      "image": null
+    },
+    {
+      "user_id": 255480,
+      "user_name": "User 255480",
+      "score": 780,
+      "max_score": 1300,
+      "bonus": 193155.15587079476,
+      "position": 12,
+      "image": null
+    },
+    {
+      "user_id": 82426,
+      "user_name": "User 82426",
+      "score": 600,
+      "max_score": 1300,
+      "bonus": 163470.9636713735,
+      "position": 13,
+      "image": null
+    },
+    {
+      "user_id": 237248,
+      "user_name": "User 237248",
+      "score": 500,
+      "max_score": 1300,
+      "bonus": 89038.9693923611,
+      "position": 14,
+      "image": null
+    },
+    {
+      "user_id": 255481,
+      "user_name": "User 255481",
+      "score": 400,
+      "max_score": 1300,
+      "bonus": 133759.67687006175,
+      "position": 15,
+      "image": null
+    },
+    {
+      "user_id": 237030,
+      "user_name": "User 237030",
+      "score": 400,
+      "max_score": 1300,
+      "bonus": 133748.0275006173,
+      "position": 16,
+      "image": null
+    },
+    {
+      "user_id": 257845,
+      "user_name": "User 257845",
+      "score": 200,
+      "max_score": 1300,
+      "bonus": 29689.52952013889,
+      "position": 17,
+      "image": null
+    },
+    {
+      "user_id": 276080,
+      "user_name": "User 276080",
+      "score": 0,
+      "max_score": 0,
+      "bonus": 0,
+      "position": 19,
+      "image": null
+    },
+    {
+      "user_id": 411451,
+      "user_name": "User 411451",
+      "score": 0,
+      "max_score": 0,
+      "bonus": 0,
+      "position": 20,
+      "image": null
+    }
+  ]
+}

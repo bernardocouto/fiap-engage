@@ -1,0 +1,28 @@
+# Dependency
+node_modules/
+
+# Environment Variable
+.env
+
+# Log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# MacOS
+.DS_Store
+
+# Neo4j
+neo4j/data
+
+# NPM
+.npm
+
+# Virtual Environment
+import/venv/
+
+# Visual Studio Code
+.vscode/
+
+# WebStorm
+.idea/

@@ -1,0 +1,28 @@
+{
+  "authors": [
+    "Bernardo Couto",
+    "Raphael Freixo",
+    "Ronaldo Nolasco"
+  ],
+  "dependencies": {
+    "apollo-server": "^3.3.0",
+    "dotenv": "^10.0.0",
+    "graphql-tag": "^2.12.5",
+    "graphql-tools": "^8.2.0",
+    "neo4j-driver": "^4.3.3",
+    "neo4j-graphql-js": "^2.19.4"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "nodemon": "^2.0.12"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "name": "fiap-engage",
+  "repository": "git@github.com:bernardocouto/fiap-engage.git",
+  "scripts": {
+    "start": "./node_modules/.bin/nodemon --exec babel-node source/application.js"
+  },
+  "version": "1.0.0"
+}
