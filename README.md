@@ -2,4 +2,7 @@
 Database Solution Sprint
 
 ## Modelagem do banco gráfico
-![Modelagem](./documentation/model.jpg)
+![Modelagem](./documentation/modeling.jpg)
+
+## Arquitetura proposta
+![Arquitetura](./documentation/architecture.jpg)
