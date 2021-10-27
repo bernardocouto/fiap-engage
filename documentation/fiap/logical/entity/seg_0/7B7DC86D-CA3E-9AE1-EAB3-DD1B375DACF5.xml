@@ -1,0 +1,85 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="7B7DC86D-CA3E-9AE1-EAB3-DD1B375DACF5" name="activities">
+<createdBy>rapha</createdBy>
+<createdTime>2021-10-26 14:42:12 UTC</createdTime>
+<ownerDesignName>fiap</ownerDesignName>
+<engineerTo>
+<item key="A4A26987-E87A-04B0-3E69-4335E3DA19D0" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="ID_USUARIO" id="E1F41A31-7FDB-B879-79F0-1D373AC1EC59">
+<createdBy>rapha</createdBy>
+<createdTime>2021-10-26 14:48:31 UTC</createdTime>
+<ownerDesignName>fiap</ownerDesignName>
+<engineerTo>
+<item key="A4A26987-E87A-04B0-3E69-4335E3DA19D0" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ID_ATIVIDADE" id="3961B684-DB55-1A77-C49C-99C6014027B4">
+<createdBy>rapha</createdBy>
+<createdTime>2021-10-26 14:48:36 UTC</createdTime>
+<ownerDesignName>fiap</ownerDesignName>
+<engineerTo>
+<item key="A4A26987-E87A-04B0-3E69-4335E3DA19D0" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="NU_PESO" id="BEAFD7D0-E60A-0BA2-260D-5F134B922D37">
+<createdBy>rapha</createdBy>
+<createdTime>2021-10-26 14:48:36 UTC</createdTime>
+<ownerDesignName>fiap</ownerDesignName>
+<engineerTo>
+<item key="A4A26987-E87A-04B0-3E69-4335E3DA19D0" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="roundId" id="C04F0A60-D08D-9F7D-A71E-D42B38D10943">
+<createdBy>rapha</createdBy>
+<createdTime>2021-10-26 14:54:58 UTC</createdTime>
+<generatorID>0392BD23-D336-1C80-05F2-D37AA99D1562</generatorID>
+<ownerDesignName>fiap</ownerDesignName>
+<engineerTo>
+<item key="A4A26987-E87A-04B0-3E69-4335E3DA19D0" value="true"/>
+</engineerTo>
+<referedAttribute>AF23F2CB-9A09-470F-EACB-826D87A62142</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="2DBCAD58-0AB8-92E9-F26A-EC3CC29CBD65" name="activities PK">
+<createdBy>rapha</createdBy>
+<createdTime>2021-10-26 14:55:05 UTC</createdTime>
+<ownerDesignName>fiap</ownerDesignName>
+<engineerTo>
+<item key="A4A26987-E87A-04B0-3E69-4335E3DA19D0" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>3961B684-DB55-1A77-C49C-99C6014027B4</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

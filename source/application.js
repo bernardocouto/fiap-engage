@@ -8,10 +8,10 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 const driver = neo4j(
-  `bolt://${process.env.NEO4J_URL}:7687`,
+  `bolt://localhost:7687`,
   auth.basic(
     'neo4j',
-    process.env.NEO4J_PASSWORD
+    'fiap-engage'
   )
 );
 

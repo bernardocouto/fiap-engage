@@ -1,0 +1,149 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="C8BE984D-B11A-0FC2-5572-1BAAA9729EBC" name="USER">
+<createdBy>rapha</createdBy>
+<createdTime>2021-10-26 14:51:21 UTC</createdTime>
+<ownerDesignName>fiap</ownerDesignName>
+<engineerTo>
+<item key="A4A26987-E87A-04B0-3E69-4335E3DA19D0" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="userid" id="4DE222C3-B4E7-279F-0B6A-19DBC55CFF6E">
+<createdBy>rapha</createdBy>
+<createdTime>2021-10-26 14:51:30 UTC</createdTime>
+<ownerDesignName>fiap</ownerDesignName>
+<engineerTo>
+<item key="A4A26987-E87A-04B0-3E69-4335E3DA19D0" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="userstatus" id="9798665B-EABD-AAF8-212F-2B92E9F767DA">
+<createdBy>rapha</createdBy>
+<createdTime>2021-10-26 14:51:30 UTC</createdTime>
+<ownerDesignName>fiap</ownerDesignName>
+<engineerTo>
+<item key="A4A26987-E87A-04B0-3E69-4335E3DA19D0" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="maxScore" id="A0433E7B-3498-1984-F0D8-0C00B2BFB483">
+<createdBy>rapha</createdBy>
+<createdTime>2021-10-26 14:51:30 UTC</createdTime>
+<ownerDesignName>fiap</ownerDesignName>
+<engineerTo>
+<item key="A4A26987-E87A-04B0-3E69-4335E3DA19D0" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="score" id="DDFA7B91-9805-6FB6-6C69-D633334A5EF2">
+<createdBy>rapha</createdBy>
+<createdTime>2021-10-26 14:51:31 UTC</createdTime>
+<ownerDesignName>fiap</ownerDesignName>
+<engineerTo>
+<item key="A4A26987-E87A-04B0-3E69-4335E3DA19D0" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="image" id="24B937C7-D07C-B73E-975B-86A45CF51D97">
+<createdBy>rapha</createdBy>
+<createdTime>2021-10-26 14:51:31 UTC</createdTime>
+<ownerDesignName>fiap</ownerDesignName>
+<engineerTo>
+<item key="A4A26987-E87A-04B0-3E69-4335E3DA19D0" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="position" id="5B0DB175-A7C1-3546-1DDD-D9BF5FD23E7C">
+<createdBy>rapha</createdBy>
+<createdTime>2021-10-26 14:51:55 UTC</createdTime>
+<ownerDesignName>fiap</ownerDesignName>
+<engineerTo>
+<item key="A4A26987-E87A-04B0-3E69-4335E3DA19D0" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="myRanking" id="630341DB-C23A-8CDE-12E2-DD418768AC73">
+<createdBy>rapha</createdBy>
+<createdTime>2021-10-26 14:51:55 UTC</createdTime>
+<ownerDesignName>fiap</ownerDesignName>
+<engineerTo>
+<item key="A4A26987-E87A-04B0-3E69-4335E3DA19D0" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="round" id="04DE66B1-A021-46E5-57B2-62D934C75687">
+<createdBy>rapha</createdBy>
+<createdTime>2021-10-26 14:51:55 UTC</createdTime>
+<ownerDesignName>fiap</ownerDesignName>
+<engineerTo>
+<item key="A4A26987-E87A-04B0-3E69-4335E3DA19D0" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="rounds" id="1D493C00-8857-9CF1-EE69-3AD0D16825F2">
+<createdBy>rapha</createdBy>
+<createdTime>2021-10-26 14:53:16 UTC</createdTime>
+<ownerDesignName>fiap</ownerDesignName>
+<engineerTo>
+<item key="A4A26987-E87A-04B0-3E69-4335E3DA19D0" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="07D99EE1-BB99-8E85-866A-3BCC006F7B0F" name="USER PK">
+<createdBy>rapha</createdBy>
+<createdTime>2021-10-26 14:54:43 UTC</createdTime>
+<ownerDesignName>fiap</ownerDesignName>
+<engineerTo>
+<item key="A4A26987-E87A-04B0-3E69-4335E3DA19D0" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>4DE222C3-B4E7-279F-0B6A-19DBC55CFF6E</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>
